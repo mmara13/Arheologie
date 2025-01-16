@@ -14,6 +14,12 @@ You can find the full implementation in the Colab notebook by clicking the link 
 2. Follow the instructions provided in the notebook.
 3. Run the cells to explore the code and its functionality.
 
+## Documentation
+
+The final project documentation is available as a PDF file in the repository. You can access it directly via the link below:
+
+[**Final Documentation**](./Report.pdf)
+
 ## Contributions
 
 All contributions to this project have been thoroughly researched, analysed, and discussed collaboratively by all members of the team.
